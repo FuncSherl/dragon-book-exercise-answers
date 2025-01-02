@@ -21,4 +21,6 @@ It is still under consideration. Anyone know which is suitable?
 https://github.com/fool2fish/dragon-book-exercise-answers.git 
 
 ## 基于原仓库添加自己的学习笔记
-出于学习目的，鉴于原仓库已经很久没人维护，这里新建仓库留作笔记
+出于学习目的，鉴于原仓库已经很久没人维护，这里新建仓库留作笔记:
+
+* 添加编译脚本 `build.sh` 将全部章节生成pdf，仓库根目录下使用: `bash build.sh`
