@@ -1,6 +1,8 @@
 # Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers
 # 编译原理（紫龙书）中文第2版习题答案
 
+## 作者原文如下
+
 [![Join the chat at https://gitter.im/fool2fish/dragon-book-exercise-answers](https://badges.gitter.im/fool2fish/dragon-book-exercise-answers.svg)](https://gitter.im/fool2fish/dragon-book-exercise-answers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Something I hope you know before go into the answers
@@ -14,3 +16,9 @@
 ### License
 
 It is still under consideration. Anyone know which is suitable?
+
+### 原仓库
+https://github.com/fool2fish/dragon-book-exercise-answers.git 
+
+## 基于原仓库添加自己的学习笔记
+出于学习目的，鉴于原仓库已经很久没人维护，这里新建仓库留作笔记
