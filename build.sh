@@ -26,5 +26,6 @@ sudo apt install pandoc -y
 sudo apt install texlive-xetex latex-cjk-all -y
 
 # To find supported chinese font, run: fc-list :lang=zh 
-pandoc --pdf-engine=xelatex -V CJKmainfont="AR PL KaitiM GB" \
-       --toc -N -o ${RESF%.*}.pdf  $RESF
+pandoc --pdf-engine=xelatex -V CJKmainfont="AR PL KaitiM GB"  \
+       -V mainfont=""\
+       --toc -o ${RESF%.*}.pdf  $RESF
