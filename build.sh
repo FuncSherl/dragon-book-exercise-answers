@@ -6,6 +6,7 @@ mkdir -p build
 cd build
 
 RESF="Compiler_Answers_Total.md"
+rm -rf $RESF
 for i in `ls -d ../ch*/*`; do
     echo $i
     cat $i/*.md >> $RESF
